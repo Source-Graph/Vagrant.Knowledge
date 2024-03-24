@@ -12,3 +12,6 @@ requires: libguestfs-tools. Otherwise it will fail.
 
 example:
 ```vagrant package --output ubuntu-gnome-minimal.box```
+
+### Error:
+https://www.google.com/search?q=libguestfs+error+%22supermin+exited+with+error%22
